@@ -1,0 +1,105 @@
+h1 {
+    font-family: 'Segoe UI';
+    color: #ff9900;
+}
+h2 {
+    position: relative;
+    font-family: 'Segoe UI';
+    font-size: 18px;
+    top: -20px;
+}
+body {
+    text-align: center;
+}
+
+
+.background {
+    margin-left: -25px;
+}
+
+.navbar {
+    text-align: center;
+    font-family: 'Segoe UI';
+    font-weight: 500;
+    font-size: 20px;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #fff;
+    color: #000;
+    padding: 12px 0;
+}
+.nav-logo {
+    position: relative;
+    padding-right: 104px;
+}
+.nav-link {
+    top: -8px;
+    position: relative;
+    display: inline-block;
+    padding: 10px 30px;
+    text-decoration: none;
+    color: #000;
+}
+.nav-link:hover {
+    border-radius: 20px;
+    background-color: #fffb00;
+}
+
+.order-overlap {
+    left: 680px;
+    top: -125px;
+    position: relative;
+    width: 500px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    border-radius: 25px;
+    padding-bottom: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: 2px 2px 5px #00000096;
+}
+.prenderci-gusto {
+    padding-top: 5px;
+}
+.order-button {
+    font-family: 'Segoe UI';
+    font-size: 25px;
+    padding: 12px;
+    padding-left: 40px;
+    padding-right: 40px;
+    align-self: center;
+    position: relative;
+    background-color: #ff8800;
+    border-radius: 50px;
+    color: white
+}
+.order-button:hover {
+    background-color: #7e6b00;
+}
+
+.prenderci-gusto2 {
+    position: relative;
+    top: -50px;
+    color: #000;
+    font-size: 28px;
+}
+.download-label{
+    position: relative;
+    top: -50px;
+    padding-top: 0px;
+    padding-bottom: 1px;
+    font-size: 15px;
+}
+.store-image {
+    position: relative;
+    top: -50px;
+}
+
+.phone-image {
+    position: relative;
+    top: -69px;
+    left: -620px;
+    top: -250px;
+    width: 256px;
+}
